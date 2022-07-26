@@ -35,4 +35,11 @@ right: 3%;
     bottom: 0;
     width: 100vw;
 }
-
+.modal-body h1{
+  text-align: center;
+}
+.modal-body img{
+  width:  450px;
+  height: 300px;
+  object-fit: cover;
+}
